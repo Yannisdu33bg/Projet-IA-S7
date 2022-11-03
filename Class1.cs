@@ -61,8 +61,15 @@ namespace ProjetIA2022
 
         public override double CalculeHCost()
         {
-            return( 0 );
+            //version 0
+
+            //return 0;
+
+            //version 1
+
+            return (Math.Sqrt(Math.Pow(x-Form1.xfinal,2)+Math.Pow(y-Form1.yfinal,2)));
            
+
         }
 
         public override string ToString()
