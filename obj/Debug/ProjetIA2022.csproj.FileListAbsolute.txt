@@ -9,3 +9,13 @@ C:\Users\jsalotti-admin\Documents\enseignement\Ingénieurs\bases de l'intelligen
 C:\Users\jsalotti-admin\Documents\enseignement\Ingénieurs\bases de l'intelligence artificielle\2022 2023\ProjetIA2022\obj\Debug\ProjetIA2022.csproj.CoreCompileInputs.cache
 C:\Users\jsalotti-admin\Documents\enseignement\Ingénieurs\bases de l'intelligence artificielle\2022 2023\ProjetIA2022\obj\Debug\ProjetIA2022.exe
 C:\Users\jsalotti-admin\Documents\enseignement\Ingénieurs\bases de l'intelligence artificielle\2022 2023\ProjetIA2022\obj\Debug\ProjetIA2022.pdb
+C:\Users\yanni\IA\ProjetIA2022\Projet-IA-S7\bin\Debug\ProjetIA2022.exe.config
+C:\Users\yanni\IA\ProjetIA2022\Projet-IA-S7\bin\Debug\ProjetIA2022.exe
+C:\Users\yanni\IA\ProjetIA2022\Projet-IA-S7\bin\Debug\ProjetIA2022.pdb
+C:\Users\yanni\IA\ProjetIA2022\Projet-IA-S7\obj\Debug\ProjetIA2022.csproj.AssemblyReference.cache
+C:\Users\yanni\IA\ProjetIA2022\Projet-IA-S7\obj\Debug\ProjetIA2022.Form1.resources
+C:\Users\yanni\IA\ProjetIA2022\Projet-IA-S7\obj\Debug\ProjetIA2022.Properties.Resources.resources
+C:\Users\yanni\IA\ProjetIA2022\Projet-IA-S7\obj\Debug\ProjetIA2022.csproj.GenerateResource.cache
+C:\Users\yanni\IA\ProjetIA2022\Projet-IA-S7\obj\Debug\ProjetIA2022.csproj.CoreCompileInputs.cache
+C:\Users\yanni\IA\ProjetIA2022\Projet-IA-S7\obj\Debug\ProjetIA2022.exe
+C:\Users\yanni\IA\ProjetIA2022\Projet-IA-S7\obj\Debug\ProjetIA2022.pdb
